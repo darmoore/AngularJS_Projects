@@ -1,0 +1,5 @@
+ng-app - This directive defines and links an AngularJS application to HTML.
+
+ng-model - This directive binds the values of AngularJS application data to HTML input controls.
+
+ng-bind - This directive binds the AngularJS Application data to HTML tags.
